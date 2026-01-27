@@ -9,6 +9,7 @@ public class literals {
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad);
         System.out.println("Inicial: " + inicial);
+        System.out.println("hola" + nombre);
 
     }
 }
