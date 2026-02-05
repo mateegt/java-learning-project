@@ -43,7 +43,7 @@ src/main/java/
 ```
 
 ## 🔥 Ejercicios Completados
-- [ ] 
+- [x] Conversor de Monedas ⭐ (Integrador Tema 01)
 
 
 ## 🚀 Proyectos
