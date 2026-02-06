@@ -2,13 +2,13 @@
 
 Repositorio para sincronizar mi progreso de estudio entre PC y laptop.
 
-## 🎯 Objetivo
+##  Objetivo
 Dominar Java
 
-## 📚 Progreso por Temas
+##  Progreso por Temas
 
-### ✅ Completado
-- **Tema 01 - Variables** ⭐ COMPLETADO
+###  Completado
+- **Tema 01 - Variables**  COMPLETADO
     - Tipos de datos (int, double, String, char, boolean)
     - Operadores aritméticos
     - Scanner y entrada de datos
@@ -16,10 +16,10 @@ Dominar Java
     - Conversión de tipos
 - **Tema 02 - Condicionales** - if-else, operadores lógicos
 
-### 🔄 Estudiando Ahora
+###  Estudiando Ahora
 - **Tema 03 - Loops** - For, While, Do-While
 
-### ⏳ Próximos Temas
+###  Próximos Temas
 - Tema 04 - Arrays
 - Tema 05 - Métodos
 - Tema 06 - Programación Orientada a Objetos
@@ -27,7 +27,7 @@ Dominar Java
 - Tema 08 - Excepciones
 
 
-## 📂 Organización
+##  Organización
 ```
 src/main/java/
 ├── tema01_variables/       # Tipos de datos, operadores, Scanner
@@ -42,14 +42,14 @@ src/main/java/
 └── proyectos/              # Proyectos completos
 ```
 
-## 🔥 Ejercicios Completados
+##  Ejercicios Completados
 - [x] Conversor de Monedas ⭐ (Integrador Tema 01)
 
 
-## 🚀 Proyectos
+##  Proyectos
 - [ ] 
 
-## 📌 Notas
+##  Notas
 - Última actualización: 3 Feb 2026
 - Estudiando diariamente
 - Sincronizando entre PC y laptop
