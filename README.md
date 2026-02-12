@@ -50,6 +50,6 @@ src/main/java/
 - [ ] 
 
 ##  Notas
-- Última actualización: 3 Feb 2026
+- Última actualización: 12 Feb 2026
 - Estudiando diariamente
 - Sincronizando entre PC y laptop
