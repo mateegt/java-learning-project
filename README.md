@@ -1,5 +1,8 @@
 # Java Sandbox
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-Tema%2002-brightgreen?style=for-the-badge)
+
 Hola, este repositorio es para recopilar y sincronizar mis avances en el aprendizaje del lenguaje de programación Java. Como tambien aprender el uso de git y de los repositorios.
 
 ##  Objetivo
@@ -14,7 +17,10 @@ Mi objetivo es aprender en la medida de lo posible Java y sus temas fundamentale
     - Scanner y entrada de datos
     - Calculadora básica con validación
     - Conversión de tipos
-- **Tema 02 - Condicionales** - if-else, operadores lógicos
+- **Tema 02 - Condicionales** COMPLETADO
+    - If-else, operadores lógicos (&&, ||, !), booleanos
+    - Switch 
+
 
 ###  Estudiando Ahora
 - **Tema 03 - Loops** - For, While, Do-While
@@ -44,7 +50,9 @@ src/main/java/
 
 ##  Ejercicios Completados
 - [x] Conversor de Monedas ⭐ (Integrador Tema 01)
+    - Validaciones, operadores aritmeticos, printf 
 - [x] Sistema de Calificaciones ⭐ (Integrador Tema 02)
+    - Booleanos, condicionales multiples, calculos
 
 
 ##  Proyectos
